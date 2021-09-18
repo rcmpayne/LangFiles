@@ -44,7 +44,7 @@
           "Lost": "LOST!"
         },
         "Map": {
-          "IncidentsFound": "Es werden noch Relikte eingesammelt!"
+          "IncidentsFound": "Relics are still being collected!"
         }
       },
       "GBG": {
@@ -112,7 +112,7 @@
         "Header": "Settings",
         "Production": {
           "Header": "Functions",
-          "BuyGEXAttempts": "Buy GEX-Attempt automaticaly:",
+          "BuyGEXAttempts": "Buy GEX-Attempt automatically:",
           "ToggleView": "Toggle View:",
           "ToggleViewExplained": "Enabled = Grouped",
           "ToggleTwoLane": "Show 2x2-Street-Incident:",
@@ -124,14 +124,14 @@
             "AutoInvest": {
               "Header": "Auto. invest",
               "WarningTitle": "!! ATTENTION !!",
-              "WarningText": "THE BOT INVEST INTO EVERY GB WHICH RETURN PROFIT!\nAS LONG AS FP ARE AVAILABE!!\nORDER IS THE SAME AS THE ORDER OF PLAYERS IN THE RESPECTIVE LIST\n\nINACTIVE PLAYERS WILL BE IGNORED ADDITIONALLY"
+              "WarningText": "THE BOT INVEST INTO EVERY GB WHICH RETURN PROFIT!\nAS LONG AS FP ARE AVAILABLE!!\nORDER IS THE SAME AS THE ORDER OF PLAYERS IN THE RESPECTIVE LIST\n\nINACTIVE PLAYERS WILL BE IGNORED ADDITIONALLY"
             },
-            "MinProfit": "Min. Profit to snip",
-            "SnipEvery": "Snip every x minutes",
+            "MinProfit": "Min. Profit to snipe",
+            "SnipEvery": "Snipe every x minutes",
             "PercProfit": "Min. Profit in %:",
             "UpperInvestLimit": "Max. Investment:"
           },
-          "Ignore": "Players to ignore by Snip-Bot (Press Enter to add)",
+          "Ignore": "Players to ignore by Snipe-Bot (Press Enter to add)",
           "NoMatter": "doesn't matter",
           "ForgePoints": "Forge-Points",
           "Goods": "Goods",
@@ -157,7 +157,7 @@
             "Notify": "Telegram-Notification"
           },
           "TavernBot": "Tavern-Bot",
-          "MoppelBot": "Polivate Bot",
+          "MoppelBot": "Motivate Bot",
           "IncidentBot": "Incident Bot",
           "Interval": "Interval",
           "IntervalHours": "hour(s)",
@@ -188,7 +188,7 @@
         "BWTitleSnip": "Sniping selected GBs",
         "SnipDone": "Done",
         "Search": "Search",
-        "Snip": "Snip FP",
+        "Snip": "Snipe FP",
         "CheckSnip": "select",
         "SearchingPlayer": "Searching Player",
         "SearchingLG": "Searching ##Player##'s",
@@ -201,7 +201,7 @@
           "Total": "Current Outcome:"
         },
         "Cancel": "Cancel",
-        "SnipBotActive": "Snip-Bot active!"
+        "SnipBotActive": "Snipe-Bot active!"
       },
       "Tavern": {
         "Header": "Tavern",
@@ -215,19 +215,19 @@
         "Header": "Help"
       },
       "UnderConstruction": {
-        "Header": "Our Minios working on new Features!"
+        "Header": "Our Minions are working on new Features!"
       },
       "Loading": {
-        "Wait": "Bot starting...\nplease Wait",
-        "Changing": "Bot is restarting for World-Changing!\n\n[YES] to continue\n[NO] zo abort"
+        "Wait": "Bot Starting...\nPlease Wait",
+        "Changing": "Bot is restarting for World-Changing!\n\n[YES] to continue\n[NO] to abort"
       },
       "Menu": {
-        "MoppelFriends": "Polivate Freinds",
-        "MoppelClan": "Polivate Clan",
-        "MoppelNeighbor": "Polivate Neighbor",
+        "MoppelFriends": "Motivate Freinds",
+        "MoppelClan": "Motivate Clan",
+        "MoppelNeighbor": "Motivate Neighbor",
         "VisitTavern": "Visit Tavern",
         "CollectTavern": "Collect Tavern",
-        "MoppelTavern": "Polivate && Visit (ALL)",
+        "MoppelTavern": "Motivate && Visit (ALL)",
         "CollectIncidents": "Collect Incidents",
         "StartProduction": "Start productions",
         "CancelProduction": "Stop productions",
@@ -254,13 +254,13 @@
           "Text": "The ChromeDriver Version is older or newer than the installed Chrome Browser\n\nPlease remember to update the UserAgent\n\nPlease delete the 'chromedriver.exe' file inside this folder: (Windows-Explorer: '%appdata%/ForgeOfBots') and restart the Bot (press Yes)",
           "Title": "Incompatible ChromeDriver Version!"
         },
-        "NoTelegramChatText": "There is no active Chat with the Bot\nSo no message could be send!\n\nPlease follow the link to start a chat:\nhttps://t.me/ForgeOfBot (Telegram-Client required)",
+        "NoTelegramChatText": "There is no active Chat with the Bot\nSo no message could be sent!",
         "NoTelegramChatTitle": "No active chat",
         "NoTelegramNameText": "No receiver was saved in the Settings!\nPlease save one in the Settings Tab under \"Misc\"->\"Telegram Username\"! (without \"@\")",
         "NoTelegramNameTitle": "No saved receiver"
       },
       "Log": {
-        "Snip": "Snip-Bot"
+        "Snip": "Snipe-Bot"
       },
       "Download": {
         "Header": "Download ",
@@ -275,8 +275,8 @@
     "Attach": "Attach",
     "AttachMain": "Attach to Main",
     "CanNotSitDown": "Can't sit down",
-    "Clanmembers": "Clanmembers",
-    "PlayerNotFound": "not found!",
+    "Clanmembers": "Clan Members",
+    "PlayerNotFound": "Not found!",
     "CollectingError": "ERROR WHILE COLLECTING PRODUCTION",
     "CollectingTavernError": "Something went wrong collecting tavern",
     "CollectTavern": "Collect Tavern",
@@ -303,8 +303,8 @@
     "PleaseWaitAgain": "Please wait (again)!",
     "PleaseWaitShutdown": "Please wait...",
     "PleaseWaitShutdown2": "Shutingdown Bot",
-    "PolivateBot": "Polivate Bot",
-    "PolivateResult": "Polivate-Result",
+    "PolivateBot": "Motivate Bot",
+    "PolivateResult": "Motivate-Result",
     "PolivateTitle": "Motivate/Polish",
     "Premium": "PREMIUM",
     "ProducingState": "Producing",
@@ -323,8 +323,8 @@
     "Status": "Current Status:",
     "SubExpiredTitle": "SUBSCRIPTION EXPIRED",
     "SubscriptionExpired": "Your Subscription is expired.\n\nPlease purchase a new Subscribtion and acitvate it\nPress 'Yes' to open the Store\n\nelse you are continue using the Free-Version\nPress 'No' for the Free Version",
-    "SuccessText": "The Crash Report successfull transmitted.\n\nThank you for your help!",
-    "SuccessTitle": "Successful transmitted",
+    "SuccessText": "The Crash Report successfully transmitted.\n\nThank you for your help!",
+    "SuccessTitle": "Successfuly transmitted",
     "TavernBot": "Tavern Bot",
     "TavernDone": "Tavern Visit DONE",
     "TavernResult": "Tavern-Result",
